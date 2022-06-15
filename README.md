@@ -13,11 +13,17 @@ From past works and study also have experiance with Embeded Hardware development
 ## You can also find me on
 
 [swit.hr](https://swit.hr/) my small business website
+
 [Linkedin](https://www.linkedin.com/in/sandiwinter/)
+
 [Facebook](https://www.facebook.com/sandi.winter1/)
+
 [CodeCanyon](https://codecanyon.net/user/sanljiljan) where my company selling some of scripts, including most selling real estate script on all marketplaces.
+
 [ThemeForest](https://themeforest.net/user/sanljiljan/portfolio) where my company selling some of WordPress Themes, including one of best selling real estate theme from 2018 on themeforest.
+
 [dribble](https://dribbble.com/sandiwinter) where I'll share details from my interesting projects.
+
 [Codester](https://www.codester.com/ctogether) where my company selling some of scripts / plugins, including crypto trading bot built in Vue + Lumen by Laravel.
 
 ## 🔭 I’m currently working on
