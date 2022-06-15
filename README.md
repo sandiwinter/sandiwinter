@@ -12,7 +12,7 @@ From past works and study also have experiance with Embeded Hardware development
 
 ## You can also find me on
 
-[swit.hr](https://swit.hr/) my small business website
+[SWIT.hr](https://swit.hr/) my small business website
 
 [Linkedin](https://www.linkedin.com/in/sandiwinter/)
 
@@ -22,7 +22,7 @@ From past works and study also have experiance with Embeded Hardware development
 
 [ThemeForest](https://themeforest.net/user/sanljiljan/portfolio) where my company selling some of WordPress Themes, including one of best selling real estate theme from 2018 on themeforest.
 
-[dribble](https://dribbble.com/sandiwinter) where I'll share details from my interesting projects.
+[Dribble](https://dribbble.com/sandiwinter) where I'll share details from my interesting projects.
 
 [Codester](https://www.codester.com/ctogether) where my company selling some of scripts / plugins, including crypto trading bot built in Vue + Lumen by Laravel.
 
@@ -46,4 +46,4 @@ Flutter
 
 ## 📫 How to reach me
 
-on website [swit.hr](https://swit.hr/)
+on website [SWIT.hr](https://swit.hr/)
