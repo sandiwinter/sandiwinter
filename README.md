@@ -30,9 +30,9 @@ From past works and study also have experiance with Embeded Hardware development
 
 I mostly work on WordPress Plugins or Custom solutions related to Real Estate and other Directory portals.
 
-- [WPDirectoryKit](https://wpdirectorykit.com/)
-- [ElementInvader](https://elementinvader.com/)
-- [LoggingForest](https://loggingforest.com/)
+- [WPDirectoryKit](https://wpdirectorykit.com/) WordPress Directory Plugins/Themes
+- [ElementInvader](https://elementinvader.com/) Marketplace for Elementor Templates
+- [LoggingForest](https://loggingforest.com/) IoT Logging Platform
 
 ## 💬 Ask me about
 
