@@ -4,11 +4,11 @@ Welcome to my repo. I hope you find something useful.
 
 I'm a primarily Consultant/Developer focused on Directory WordPress and Custom Solutions.
 
-Croatian based, like to work with WordPress, CodeIgniter, Lumen by Laravel, Flutter.
+Croatian based, like to work with WordPress, CodeIgniter, Flutter, Lumen/Laravel.
 
 Most time related to Web Applications I work with PHP/CodeIgniter/WordPress, but have experiance also with other popular Tools.
 
-From past works and study also have experiance with Embeded Hardware development and programming, PLC, C# (Crossplatform), Java (Crossplatform, Mobile Apps), Vue and more.
+From past works and study also have experiance with Embeded Hardware development and programming, PLC, C# (Crossplatform Desktop Apps), Java (Crossplatform Desktop Apps, Mobile Apps, Swing), Vue, SmartClient, ExtJS and more.
 
 ## You can also find me on
 
