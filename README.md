@@ -26,6 +26,10 @@ From past works and study also have experiance with Embeded Hardware development
 
 [Codester](https://www.codester.com/ctogether) where my company selling some of scripts / plugins, including crypto trading bot built in Vue + Lumen by Laravel.
 
+[Google Play](https://play.google.com/store/apps/developer?id=sanwin) my Apps for Android
+
+[App Store](https://apps.apple.com/ru/developer/sandi-winter/id1088568769?l=en) my Apps for Apple devices iPhone, iPad...
+
 ## 🔭 I’m currently working on
 
 I mostly work on WordPress Plugins or Custom solutions related to Real Estate and other Directory portals.
