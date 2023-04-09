@@ -28,7 +28,7 @@ From past works and study also have experiance with Embeded Hardware development
 
 [Google Play](https://play.google.com/store/apps/developer?id=sanwin) my Apps for Android
 
-[App Store](https://apps.apple.com/ru/developer/sandi-winter/id1088568769?l=en) my Apps for Apple devices iPhone, iPad...
+[App Store](https://apps.apple.com/developer/sandi-winter/id1088568769?l=en) my Apps for Apple devices iPhone, iPad...
 
 ## 🔭 I’m currently working on
 
